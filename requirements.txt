@@ -1,0 +1,5 @@
+httpx==0.28.1
+imageio==2.37.0
+opencv-python==4.11.0.86
+python-telegram-bot==13.12
+numpy==2.0.2
